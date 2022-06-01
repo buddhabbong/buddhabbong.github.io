@@ -1,4 +1,4 @@
-name: Deploy Site
+name: 부처봉
 on:
   workflow_dispatch:
   push:
