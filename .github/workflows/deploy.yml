@@ -1,4 +1,4 @@
-name: 부처봉
+name: buddhabbong.github.io
 on:
   workflow_dispatch:
   push:
